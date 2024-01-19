@@ -8,16 +8,4 @@ Ethereum-Pocket-Monsters is an innovative game that combines the classic appeal 
 - **Training and Battles**: Develop your monsters' abilities and challenge others.
 - **Blockchain Integration**: Experience secure transactions and proof of ownership.
 
-## Getting Started
-Instructions on how to set up and run the game locally.
-
-## Contributing
-Details on how others can contribute to the project.
-
-## License
-Information about the project's license.
-
-## Acknowledgments
-Credits to any contributors or inspirational sources.
-
-Enjoy exploring the world of Ethereum-Pocket-Monsters!
+game loading...
