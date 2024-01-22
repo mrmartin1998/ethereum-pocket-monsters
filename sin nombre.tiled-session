@@ -1,0 +1,45 @@
+{
+    "activeFile": "first town.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "#Pallet Town": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Game Boy Advance - Pokemon FireRed LeafGreen - Pallet Town.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Pallet Town.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "first town.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 358.6666666666667,
+                "y": 133.99999999999997
+            }
+        }
+    },
+    "frame.defaultDuration": 100,
+    "last.imagePath": "C:/Users/marti/Documents/projects/ethereum-pocket-monsters/Assets",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "first town.tmx",
+        "Pallet Town.tsx"
+    ],
+    "project": "sin nombre.tiled-project",
+    "recentFiles": [
+        "Pallet Town.tsx",
+        "first town.tmx",
+        "Game Boy Advance - Pokemon FireRed LeafGreen - Pallet Town.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
